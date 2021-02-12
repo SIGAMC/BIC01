@@ -8,7 +8,7 @@
   </head>
   <body>
     <a-scene>
-      <a-sky src="BIC01.jpg" rotation="-1 20 -1.5"></a-sky>
+      <a-sky src="BIC01.jpg" rotation="-3 20 -1.5"></a-sky>
 
       <a-text font="kelsonsans" value="" width="6" position="-1.5 0.3 -2.5"
               rotation="0 1 -0.5"></a-text>
