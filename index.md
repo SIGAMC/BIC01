@@ -8,10 +8,10 @@
   </head>
   <body>
     <a-scene>
-      <a-sky src="BIC01.jpg" rotation="-4.5 20 -3"></a-sky>
+      <a-sky src="BIC01.jpg" rotation="0 20 0"></a-sky>
 
-      <a-text font="kelsonsans" value="" width="6" position="-2.5 0.25 -1.5"
-              rotation="0 15 0"></a-text>
+      <a-text font="kelsonsans" value="" width="6" position="-1.5 0.3 -2.5"
+              rotation="0 1 -0.5"></a-text>
     </a-scene>
   </body>
 </html>
